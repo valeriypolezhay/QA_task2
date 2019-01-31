@@ -12,8 +12,6 @@ using OpenQA.Selenium.Chrome;
 namespace Auto_dz2
 {
    
-
-
     class FirstTest
     {
         IWebDriver driver;
